@@ -1,3 +1,3 @@
-# Social-Tree.github.io
+# Social-Tree
 
 desafio da rocketseat
